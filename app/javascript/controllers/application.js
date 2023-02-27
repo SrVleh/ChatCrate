@@ -1,4 +1,5 @@
 import { Application } from "@hotwired/stimulus"
+import '@doabit/semantic-ui-sass'
 
 const application = Application.start()
 
