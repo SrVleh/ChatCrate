@@ -7,10 +7,5 @@ const application = Application.start()
 application.debug = false
 window.Stimulus   = application
 
-$(document).on('turbolinks:load', function() {
-    $('.ui.dropdown').dropdown();
-})
-
-
 export { application }
 
