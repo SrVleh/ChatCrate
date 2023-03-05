@@ -4,3 +4,4 @@ import "controllers"
 
 //= require jquery
 //= require semantic-ui
+import "channels"
